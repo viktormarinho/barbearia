@@ -19,7 +19,6 @@ header{
     justify-content: center;
     color: orange;
     background-color: transparent;
-    position: fixed;
     font-family: 'Open Sans';
     user-select: none;
 }
@@ -29,6 +28,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 footer{
     background-color: transparent;
