@@ -30,3 +30,11 @@ header{
     justify-content: center;
     align-items: center;
 }
+footer{
+    background-color: transparent;
+    text-align: center;
+    color: orange;
+    font-family: 'Open Sans';
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
