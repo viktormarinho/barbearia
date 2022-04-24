@@ -27,9 +27,20 @@ form button{
     border-radius: 8px;
     margin-top: auto;
 }
+form button i{
+    font-size: 22px;
+}
 input[type="text"]{
     font-size: 17px;
 }
 input[type="tel"]{
     font-size: 16px;
+}
+footer{
+    background-color: transparent;
+    text-align: center;
+    color: orange;
+    font-family: 'Open Sans';
+    margin-top: 35px;
+    margin-bottom: 25px;
 }
